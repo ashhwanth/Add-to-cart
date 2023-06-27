@@ -9,7 +9,7 @@ html, body {
 .container {
     display: flex;
     flex-direction: column;
-    max-width: 350px;
+    max-width: 320px;
     margin: 30px auto;
     user-select: none;
 }
